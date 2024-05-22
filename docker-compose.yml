@@ -3,7 +3,7 @@ version: "3.7"
 services:
   web:
     build: .
-    image:  sujin/prac12w
+    image:  sujin27/prac12w
     ports:
       - "5000:5000"
 
